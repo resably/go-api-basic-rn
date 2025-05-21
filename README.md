@@ -1,7 +1,7 @@
 # 📦 Go API Basic for React Native
 
 ## 📖 Packages
-**Gin** -
+- **Gin** -
 - **GORM** - 
 - **JWT** - 
 - **golang.org/x/crypto** -
